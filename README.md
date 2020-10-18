@@ -1,12 +1,11 @@
 Projeto criado duarante a Next Level Week, trilha OmniStack 🚀
 Principais tecnologias utilizadas: ReactJ, NodeJS e TypeScript.
 
-Acessar os diretórios:
+Acessar os diretórios e instalar as dependencias:
 
     $ cd happy/web
     $ cd happy/backend
 
-Instalar as dependencias com: 
 
     $ yarn install
 
